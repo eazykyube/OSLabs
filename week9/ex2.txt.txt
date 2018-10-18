@@ -1,0 +1,6 @@
+Increased Hit/Miss ratio: If a sequence has repetition(e.g. 1 2 3 1 2 3 ...) then program
+will use already existing pages and after some time there will be only hits.
+
+Decreased Hit/Miss ratio: If a sequence has repetition(e.g. fibonacci sequence) then there
+always will be a miss and each time new page will be created.
+
