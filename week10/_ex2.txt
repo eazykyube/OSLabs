@@ -1,0 +1,3 @@
+4222124650902716 _ex2.txt
+../week1/file.txt
+ls: cannot access '../week1/file.txt': No such file or directory
